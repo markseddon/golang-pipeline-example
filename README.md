@@ -1,4 +1,4 @@
-Thanks to [Paul Maddox] (https://github.com/PaulMaddox) for his [example](https://github.com/awslabs/golang-deployment-pipeline) which influenced this example leveraging CodeCommit. 
+Thanks to [Paul Maddox](https://github.com/PaulMaddox) for his [example](https://github.com/awslabs/golang-deployment-pipeline) which influenced this example leveraging CodeCommit. 
 
 # Introduction
 
